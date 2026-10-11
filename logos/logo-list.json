@@ -1,0 +1,110 @@
+[
+  {
+    "order": 1,
+    "name": "KT",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/01-kt.png",
+    "path": "logos/01-kt.png"
+  },
+  {
+    "order": 2,
+    "name": "LS그룹",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/02-ls-group.png",
+    "path": "logos/02-ls-group.png"
+  },
+  {
+    "order": 3,
+    "name": "문화체육관광부",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/03-mcst.jpg",
+    "path": "logos/03-mcst.jpg"
+  },
+  {
+    "order": 4,
+    "name": "한국관광공사",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/04-kto.jpg",
+    "path": "logos/04-kto.jpg"
+  },
+  {
+    "order": 5,
+    "name": "다우기술",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/05-daou.jpg",
+    "path": "logos/05-daou.jpg"
+  },
+  {
+    "order": 6,
+    "name": "한샘",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/06-hanssem.png",
+    "path": "logos/06-hanssem.png"
+  },
+  {
+    "order": 7,
+    "name": "파마리서치",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/07-pharmaresearch.png",
+    "path": "logos/07-pharmaresearch.png"
+  },
+  {
+    "order": 8,
+    "name": "교촌치킨",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/08-kyochon.png",
+    "path": "logos/08-kyochon.png"
+  },
+  {
+    "order": 9,
+    "name": "바른치킨",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/09-barun-chicken.png",
+    "path": "logos/09-barun-chicken.png"
+  },
+  {
+    "order": 10,
+    "name": "국립중앙도서관",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/10-nlk.jpg",
+    "path": "logos/10-nlk.jpg"
+  },
+  {
+    "order": 11,
+    "name": "보쉬(BOSCH)",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/11-bosch.png",
+    "path": "logos/11-bosch.png"
+  },
+  {
+    "order": 12,
+    "name": "MOWI",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/12-mowi.png",
+    "path": "logos/12-mowi.png"
+  },
+  {
+    "order": 13,
+    "name": "삼천리",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/13-samchully.jpg",
+    "path": "logos/13-samchully.jpg"
+  },
+  {
+    "order": 14,
+    "name": "천재교육",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/14-chunjae.png",
+    "path": "logos/14-chunjae.png"
+  },
+  {
+    "order": 15,
+    "name": "메가스터디",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/15-megastudy.jpg",
+    "path": "logos/15-megastudy.jpg"
+  },
+  {
+    "order": 16,
+    "name": "코엑스(COEX)",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/16-coex.png",
+    "path": "logos/16-coex.png"
+  },
+  {
+    "order": 17,
+    "name": "창업진흥원",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/17-kised.png",
+    "path": "logos/17-kised.png"
+  },
+  {
+    "order": 18,
+    "name": "한국환경산업기술원",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/18-keiti.png",
+    "path": "logos/18-keiti.png"
+  }
+]
