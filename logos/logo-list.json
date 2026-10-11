@@ -106,5 +106,17 @@
     "name": "한국환경산업기술원",
     "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/18-keiti.png",
     "path": "logos/18-keiti.png"
+  },
+  {
+    "order": 19,
+    "name": "고려대학교 안암병원",
+    "path": "logos/19-korea-university-anam-hospital.png",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/19-korea-university-anam-hospital.png"
+  },
+  {
+    "order": 20,
+    "name": "한국농어촌공사",
+    "path": "logos/20-korea-rural-community-corporation.png",
+    "url": "https://raw.githubusercontent.com/goplan0204-create/img/main/logos/20-korea-rural-community-corporation.png"
   }
 ]
